@@ -20,7 +20,7 @@
  
 - ⚡ I speak **| German | English | Turkish | Russian**
 
-## 🚀 Languages and Tools:  
+## 🚀 Languages, Tools, Skills:  
 
 <p align="left"> 
      </a>
