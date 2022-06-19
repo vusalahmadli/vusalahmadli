@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vusal</h1>
-<h3 align="center">I'm a passionate Web developer from Azerbaijan based in Germany.</h3>
+<h3 align="center">I'm a passionate Web developer based in Germany.</h3>
 
 
 ## 🙋‍♂️ About Me
