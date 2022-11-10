@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **Web Developing**
+- 🔭 I’m currently working as a **Web Developer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
